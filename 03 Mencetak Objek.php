@@ -11,7 +11,7 @@ class makanan {
 
 $nasgor = new makanan("nasgor", "kuning");
 $seblak = new makanan("seblak", "warna");
-print_r($apel);
+print_r($nasgor);
 print "<p>";
 print_r($seblak);
 
