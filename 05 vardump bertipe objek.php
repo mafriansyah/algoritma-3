@@ -4,7 +4,7 @@ class sepatu {
     public $model;
 }
 
-$sepatu_baru = new Mobil();
+$sepatu_baru = new sepatu();
 $sepatu_baru->merk = "converse";
 $sepatu_baru->model = "vans";
 
