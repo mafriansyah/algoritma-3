@@ -8,3 +8,5 @@ exit(1);
 
 // Jika tidak ada error
 exit(0);
+
+print_r("<p><strong>by :M Afriansyah");
